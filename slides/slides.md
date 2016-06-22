@@ -6,44 +6,46 @@ class: middle
 
 ---
 
-class: middle center
+class: middle
 
 ## * success
 
-#### The joy of creating something of value
+#### The joy of creating something valuable
 #### The satisfaction of learning
 
-<strike>💰💰💰💰</strike>
+#### <strike>💰💰💰💰</strike>
+#### <strike>📰📰📰📰📰</strike>
 
 ---
 
 class: middle center
 
-# Scratch your itch
+# Build to learn
 
-#### Solve your own problems.
-
----
-
-class: middle center
-
-# Build what you want to learn
-
-#### Pick unstable, impractical technologies. It's your project.
+#### Knowledge is your guaranteed reward
+#### Pick unstable, impractical technologies (if you want) 🍰
 
 ---
 
 class: middle center
 
-# Don't crush it
+# Solve your own problems.
 
-#### Rule of thumb: No more than 2 hours a night.
+#### No toy apps.
 
 ---
 
 class: middle center
 
-# Find a friend
+# Guard your time (& your life)
+
+#### Rule of thumb: No more than 4 hours a week.
+
+---
+
+class: middle center
+
+# Find a partner
 
 #### Misery loves company
 
@@ -56,7 +58,7 @@ class: middle center
 
 # Keep your job
 
-#### Startups fail. You don't want to fail.
+#### Startups fail. You need your Real Job.
 
 ---
 
@@ -64,7 +66,7 @@ class: middle center
 
 # Keep expectations low
 
-#### Avoid stress.
+#### Avoid choices that lead to more stress.
 
 #### 💰 = stress
 
@@ -72,9 +74,28 @@ class: middle center
 
 class: middle center
 
-# Minimum Crappy Product
+# Find your users
 
-#### Do one interesting thing.
+#### Reddit. Hacker News. Craigslist.
+#### The local coffee shop.
+
+---
+
+class: middle center
+
+# What do the users think?
+
+#### Software analytics, customer interviews.
+
+#### Are you solving their problems?
+
+---
+
+class: middle center
+
+# Do one thing, excellently 👌
+
+#### Keep a laser focus on your little product.
 
 ---
 
@@ -96,22 +117,23 @@ class: middle center
 
 class: middle center
 
-# Find your users
+# Dream small
 
-#### Reddit. Hacker News. Craigslist.
-#### The local coffee shop.
+#### Tiny growth is great.
 
 ---
 
 class: middle center
 
-# What do the users think?
+# Guiding principles
 
-#### Heap, Google Analytics, Mixpanel
+#### Are we having fun?
 
-#### Phone calls, Google Hangouts, interviews.
+#### Do we still have a life?
 
-#### Are you solving their problems?
+#### Are we proud of the work we've done?
+
+#### Do we have at least one passionate user?
 
 ---
 
@@ -133,48 +155,33 @@ class: middle center
 
 #### If you're doing well..
 
-# Sell out 😏💰
-
-#### Ads? Premium features?
-#### Go for it. It's your time to shine.
-
----
-
-class: middle center
-
 # Ads
 
-#### Easy, low-hanging fruit to make some money on the side.
+#### Easy to implement.
+#### Bad user & brand experience.
 
 ---
 
 class: middle center
+
+#### If you're doing well..
 
 # Premium features
 
 #### Do lightweight experiments, a la Lean Startup.
+#### Feature flags, A/B testing.
+#### Don't charge too much
 
 ---
 
 class: middle center
+
+#### The more altruistic way
 
 # Donations
 
 #### Rely on the goodwill of your community.
 #### Patreon, Gittip
-
----
-
-class: middle center
-
-# Guiding principles
-
-#### Are we having fun?
-
-#### Do we still have a life?
-
-#### Are we proud of the work we've done?
-
 
 ---
 
