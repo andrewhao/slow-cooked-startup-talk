@@ -1,20 +1,66 @@
 class: middle
 
-# Slow Cooked Startup
+# The Slow-Cooked Side Project
 
-#### Turn your hobby project into a smashing success*
+#### Turn your hobby project into a smashing success<sup>*</sup>
+
+@andrewhao
 
 ---
 
 class: middle
 
-## * success
+## <sup>*</sup> success
 
 #### The joy of creating something valuable
 #### The satisfaction of learning
 
+--
 #### <strike>💰💰💰💰</strike>
+
+--
 #### <strike>📰📰📰📰📰</strike>
+
+---
+
+class: middle center
+
+
+### Way back in 2006...
+
+### ⏳🌀🌌
+
+???
+
+A lot happens in 2006:
+
+- The Cardinals defeat the Tigers in the World Series
+- Steelers defeat the Seahawks 
+- The DJIA breaks 12000 for the first time
+- Democrats gain control of both houses of congress in midterm elections, largely seen as a referendum on the war in Iraq. This makes Pres. George W. Bush a lame-duck president.
+- Google buys YouTube for 1.65 billion, to much criticism from cynics who claim the unprofitable startup will quickly fail
+- The housing market bursts, kicking off a subprime mortgage crisis...
+- And I and a few friends were still rising juniors in university in a dusty cubicle farm in Fremont, CA...
+
+---
+
+background-image: url(/images/internship-2006.jpg)
+
+???
+
+Please don't ask me about that hair.
+
+---
+
+class: middle center
+
+### Hello Rails!
+
+#### Very hip! Insanely productive!
+
+???
+
+But actually at this startup is where I first got my early exposure to Rails. A productive framework for making software, I soon saw how quickly and how easily you could build things!
 
 ---
 
