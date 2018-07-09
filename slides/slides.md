@@ -247,7 +247,7 @@ Coordinating volunteers is difficult!
 
 class: middle
 
-#### The process is:
+#### Coordinating volunteers is:
 
 - Paper- or email-based
 - Highly manual & error-prone
@@ -311,6 +311,25 @@ class: middle
 
 ##### Sustaining your project
 
+# Launch strategically
+
+#### Reddit. Hacker News. Craigslist. Product Hunt.
+#### The local coffee shop.
+
+---
+
+class: middle
+
+#### Launched within our networks
+
+With the friends and groups we were a part of
+
+---
+
+class: middle
+
+##### Sustaining your project
+
 # Have low expectations
 
 #### You'll never be disappointed
@@ -325,45 +344,25 @@ class: middle
 
 class: middle
 
-##### Sustaining your project
-
-# Launch strategically
-
-#### Reddit. Hacker News. Craigslist. Product Hunt.
-#### The local coffee shop.
-
----
-
-class: middle
-
-#### Low-key launch
-
-We just start using it to manage the events we were involved with.
-
---
-
-Luckily, our product had a viral loop
-
----
-
-class: middle center
-
-## Congratulations!
-#### Your side project has Real Users!
-
----
-
-class: middle
-
 ## Yay success!
 
-We built Something That Works!
+We launched Something That Is Kinda Useful!
 
-We launched it too!
+We learned while we were at it!
 
 Our friends like it!
 
 Maybe 10 users like it too!
+
+---
+
+class: middle
+
+##### Sustaining your project
+
+# Viral loops
+
+Does your product have a pathway to organically grow?
 
 ---
 
@@ -388,6 +387,8 @@ class: middle
 
 class: middle center
 
+# 😓
+
 ## P-R-E-S-S-U-R-E
 
 ---
@@ -410,7 +411,9 @@ This is not that talk.
 
 ---
 
-## Life goes on
+class: middle
+
+### Life goes on
 
 We're full time students.
 
@@ -420,11 +423,11 @@ Maybe you're a parent,
 
 --
 
-or actually hold down two jobs
+or work multiple jobs,
 
 --
 
-Or have relational commitments
+or have relational commitments,
 
 --
 
@@ -436,11 +439,15 @@ class: middle center
 
 ##### Sustaining your project
 
+# 🤠
+
 ## N-O
 
 ---
 
-class: middle center
+class: middle
+
+##### Sustaining your project
 
 # Do one thing, excellently 👌
 
@@ -450,6 +457,31 @@ class: middle center
 
 class: middle center
 
+#### Vision
+
+"the easiest way to build a signup sheet"
+
+---
+
+class: middle
+
+#### That means:
+
+Always free
+
+No ads (initially)
+
+Prioritize experience
+
+Be good.
+
+
+---
+
+class: middle
+
+##### Sustaining your project
+
 # Be cheap
 
 #### Stay on the "free" side of freemium
@@ -458,23 +490,28 @@ class: middle center
 
 class: middle center
 
-## Not charging a dime!
-
-#### No money no problems
+|Service | Cost |
+|----|-------|
+| Linode | $35/mo |
+| Google Analytics| $0 |
+| New Relic | $0 |
+| Sparkpost | $0 |
+| Bitbucket | $0 |
+| Slack | $0 |
+| Cloudflare | $0 |
+| Bugsnag | $0 |
 
 ---
 
-class: middle
+class: middle center
 
-# Guiding principles
+#### No money no problems
 
-#### Are we having fun?
+Not charging money relieved us of pressure to perform for users
 
-#### Do we still have a life?
+--
 
-#### Are we proud of the work we've done?
-
-#### Do we have at least one passionate user?
+That means we can work on our own terms
 
 ---
 
@@ -488,38 +525,57 @@ class: middle
 
 ---
 
-class: middle center
+class: middle
+
+##### Sustaining your project
 
 # Keep your job
 
-#### Startups fail. You need your Real Job.
+#### Most things fail. You need your Real Job.
+
+---
+
+class: middle
+
+##### Sustaining your project
+
+# Guiding principles
+
+#### Are we having fun? Are we learning?
+
+#### Do we still have a life?
+
+#### Are we proud of the work we've done?
+
+#### Do we have at least one passionate user?
 
 ---
 
 class: middle center
 
-# What do the users think?
+#### Part III:
 
-#### Software analytics, customer interviews.
-
-#### Are you solving their problems?
+### The future
 
 ---
 
 class: middle center
 
-# Do It All Yourself
+## Fast forward 11 years...
 
-#### You'll be surprised at what you can learn.
-
+### ⏳🌀🌌
 
 ---
 
-class: middle center
+class: middle
 
-# Dream small
+#### We kept it running with minimal effort!
 
-#### Tiny growth is great.
+* Rails 2 to 3 to 4 to 5 upgrade(s)
+* Rewrote test suite, full functional test coverage
+* Wrote our own CI deployment pipeline
+* Traffic more or less slowly grew each year
+* Built Elm, React components of the system
 
 ---
 
@@ -527,24 +583,13 @@ class: middle center
 
 #### If you're not doing well...
 
-# Kill your darlings
+# Say goodbye
 
 #### You had a good run. Put the product to rest.
 
 ???
 
 Open source it all.
-
----
-
-class: middle center
-
-#### If you're doing well..
-
-# Ads
-
-#### Easy to implement.
-#### Bad user & brand experience.
 
 ---
 
@@ -560,9 +605,57 @@ class: middle center
 
 ---
 
-class: middle center
+class: middle
 
-#### The more altruistic way
+#### We made the decision to put up ads and test a freemium model
+
+Support this for the long haul
+
+---
+
+##### The future
+
+# Pay for things you can't do yourself
+
+We contracted out design to a real designer
+
+---
+
+class: middle
+
+##### The future
+
+# Find out what the users think
+
+#### Software analytics, customer interviews.
+
+#### Are you solving their problems?
+
+---
+
+class: middle
+
+#### Customer interviews
+
+Calls, in-person interviews
+
+Chat widget/Slack chat
+
+---
+
+class: middle
+
+##### The future
+
+# We had a few interns!
+
+Giving back to the community
+
+---
+
+class: middle
+
+##### The future
 
 # Donations
 
@@ -573,7 +666,10 @@ class: middle center
 
 class: middle
 
-# Thanks
+
+<h1>Thanks <img width=400 class="center" style="display: inline-block; float: right;" src="/images/wejoinin.png" /></h1>
+
+[wejoinin.com](https://www.wejoinin.com)
 
 With inspiration from:
 
